@@ -12,7 +12,7 @@ useHead({
     <div class="prose">
       <h1 class="text-center">Hi, Karla's here!</h1>
       <p>
-        I am Sekar Langit, a bachelor of computer science student.
+        I am is Sekar Langit, currently a student at Vocational High School (SMK) majoring in Computer Engineering.
       </p>
       <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in experience, architecture, and code quality of the things I build.</p>
       <p>
